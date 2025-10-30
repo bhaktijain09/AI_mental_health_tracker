@@ -1,2 +1,1 @@
-# main.py
-print("AI Mental Health Tracker - Initial Version")
+print("AI Mental Health Tracker - Version 2 with Mood Analysis Module")
